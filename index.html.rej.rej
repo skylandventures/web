@@ -1,0 +1,9 @@
+diff a/index.html.rej b/index.html.rej	(rejected hunks)
+@@ -0,6 +0,7 @@
+  
+ +
+    <main>
+++<?php echo '<p>Hello World</p>'; ?> 
+ +
+    </main>
+  
