@@ -1,0 +1,12 @@
+diff a/index.html b/index.html	(rejected hunks)
+@@ -18,7 +18,10 @@
+     <p>Skyland Venturesは、U25のスタートアップへの投資をメインに行うシードファンドです。 “The Seed Maker.”というミッションを掲げ、テクノロジー産業に大きなインパクトを与える種(シード)へのリスクマネーを提供するベンチャーキャピタル(VC)投資を行っています。</p>
+   </header>
+ 
++
+   <main>
++<?php echo '<p>Hello World</p>'; ?> 
++
+   </main>
+ 
+   <footer>
